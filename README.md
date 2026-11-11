@@ -24,3 +24,18 @@ te muestra qué hay de nuevo.
   Igual, las reglas de NCSOFT no autorizan herramientas de terceros: **usarlo es un riesgo para tu cuenta**.
 - El motor de daño es un fork con licencia GPL-3.0 de un medidor de código abierto; su código está en
   [faro-motor](https://github.com/Franco-Schillaci/faro-motor).
+
+## Créditos
+
+Faro se apoya en el trabajo de otros. Gracias a:
+
+- **[Aion2DPSMeter](https://github.com/domel1998/Aion2DPSMeter)** de domel1998 (GPL-3.0), base del motor de daño, y
+  **[A2Tools DPS Meter](https://github.com/taengu/A2Tools-DPS-Meter)** (GPL-3.0), de donde viene buena parte de la lectura del combate.
+- **[AcompanION](https://github.com/Swellshinider/AcompanION)** de Eduardo Leal (MIT): lectura de tickets, tareas y
+  mascotas, catálogo de mascotas e íconos de clase.
+- **[questlog.gg](https://questlog.gg)**: builds, buscador de builds, habilidades, Daevanion, mapa, ítems y retratos.
+- **[aion2hub.com](https://aion2hub.com)**: imágenes de ítems de respaldo.
+- **[metabot.gg](https://metabot.gg)**: perfiles de personajes y servidores · **[kisk.app](https://kisk.app)**: análisis de equipo.
+- Novedades oficiales desde Steam, videos de los canales de YouTube de la comunidad y **[Npcap](https://npcap.com)** para la captura.
+
+AION 2, sus nombres e imágenes son de NCSOFT.

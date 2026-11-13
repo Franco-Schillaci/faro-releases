@@ -1,7 +1,7 @@
 # Faro · overlay para AION 2
 
 Descargas de **Faro**, un overlay para AION 2: medidor de daño, timers de eventos y jefes, Botín, Enemigos cerca, PvP,
-builds, mapa y más. Proyecto de un jugador, **no oficial**: no tiene relación con NCSOFT.
+builds, mapa, qué rollear en Comprensión de raza y más. Proyecto de un jugador, **no oficial**: no tiene relación con NCSOFT.
 
 ## Instalar
 
@@ -35,7 +35,11 @@ Faro se apoya en el trabajo de otros. Gracias a:
   mascotas, catálogo de mascotas e íconos de clase.
 - **[questlog.gg](https://questlog.gg)**: builds, buscador de builds, habilidades, Daevanion, mapa, ítems y retratos.
 - **[aion2hub.com](https://aion2hub.com)**: imágenes de ítems de respaldo.
-- **[metabot.gg](https://metabot.gg)**: perfiles de personajes y servidores · **[kisk.app](https://kisk.app)**: análisis de equipo.
+- **[metabot.gg](https://metabot.gg)**: perfiles de personajes y servidores · **[kisk.app](https://kisk.app)**: análisis de equipo y
+  horarios de Latinoamérica para revisar los timers.
+- Comprensión de raza: recomendaciones de las guías de **[hackverso](https://hackverso.com/aion2-guides/genus-insight/)**,
+  **[Raid Relay](https://raidrelay.com/aion-2-genus-insight-guide)** y
+  **[dtgre](https://www.dtgre.com/2026/10/aion-2-genus-insight-global-vs-korea-stat-slots.html)**.
 - Novedades oficiales desde Steam, videos de los canales de YouTube de la comunidad y **[Npcap](https://npcap.com)** para la captura.
 
 AION 2, sus nombres e imágenes son de NCSOFT.
